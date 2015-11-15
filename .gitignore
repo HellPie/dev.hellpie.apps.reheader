@@ -98,6 +98,9 @@ captures/
 .idea/dynamic.xml
 .idea/uiDesigner.xml
 
+# - IDEA Files I Hate (Forces git update every time something changes)
+.idea/misc.xml
+
 # - IDEA Mongo Plugin
 .idea/mongoSettings.xml
 
